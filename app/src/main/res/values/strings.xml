@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BluetoothChatDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="send">发送</string>
+    <string name="clear">清空</string>
+    <string name="not_connected">未连接设备</string>
+    <string name="bt_not_enabled_leaving">蓝牙未启用</string>
+    <string name="devoice_connecting">蓝牙连接中...</string>
+    <string name="devoice_connected_to">已经连接: </string>
+    <string name="devoice_not_connected">设备未连接</string>
+
+    <string name="scanning">扫描设备...</string>
+    <string name="select_device">选择一个设备连接</string>
+    <string name="none_paired">没有配对的设备</string>
+    <string name="none_found_device">没有发现设备</string>
+    <string name="title_paired_devices">已配对的设备</string>
+    <string name="title_other_devices">其他可用的设备</string>
+    <string name="button_scan">扫描设备</string>
+
+    <string name="connect">连接设备</string>
+    <string name="discoverable">允许发现</string>
+</resources>
